@@ -28,7 +28,10 @@ In the figure above, we proceeded to analyze the data for each city-type and plo
 For Suburban areas, the initial peak is followed by a deep fall into March and we see a consistent rise in fare prices around early april.
 Lastly, In Rural areas after the initial peak we see a slight fall in fares in early march another peak in late march and we see the fare prices begin to fall slightly going into the end of april.
 
-# RECOMMENDATIONS
+# SUMMARY
+
+# Recommendations
+
 1. Rural Areas: Hire more drivers and Advertise services to lessen fares and simultaneously increase demand.
 2. Urban Areas: Offer incentives to attract more riders.
 3. Suburban Areas: Offer incentives and advertise services to increase demand for rides.
